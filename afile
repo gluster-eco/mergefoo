@@ -1,3 +1,7 @@
-foo
-masterfoo
-newfoo
+1 - foo
+2 - masterfoo
+3- #Commented out newfoo
+3 - #newfoo
+4 - added this line from branch hotfix
+5 - switched to newfoo, added line
+6 - switched to master, added line
